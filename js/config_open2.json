@@ -1402,7 +1402,7 @@
     "server": "https://apps.weixinqqq.com/"},
 {
       "name": "🟢小丫分类备用",
-      "server": "http://123.60.191.158:5678/"
+      "server": "http://123.60.191.158:5678/","showAll": true,"search": true
     },
 {
       "name": "🟢小雅云",
